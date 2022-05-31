@@ -1,0 +1,50 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+				android:width="24.0dp"
+		android:height="24.0dp"
+		android:viewportWidth="24.0"
+		android:viewportHeight="24.0">
+	<path
+		android:fillColor="@*android:color/accent_device_default"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M24.00,20.50L24.00,12.00A12.00 12.00 -0.00 1 0 12.00,24.00L20.50,24.00C22.75,24.00,24.00,22.75,24.00,20.50z"/>
+	<path
+		android:fillColor="#BF000000"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M12.00,6.00C15.31,6.00,18.00,8.69,18.00,12.00C18.00,15.31,15.31,18.00,12.00,18.00C8.69,18.00,6.00,15.31,6.00,12.00C6.00,8.69,8.69,6.00,12.00,6.00zM10.56,11.22L11.23,11.67C11.35,11.77,11.43,11.83,11.43,12.00C11.43,12.17,11.35,12.23,11.23,12.33L10.56,12.78M13.76,12.00C13.76,11.68,13.60,11.55,13.36,11.36L12.08,10.48C11.44,10.00,10.56,10.24,10.56,11.04L10.56,12.00L10.56,12.96C10.56,13.76,11.44,14.00,12.08,13.52L13.36,12.64C13.60,12.45,13.76,12.32,13.76,12.00z"/>
+	<path
+		android:fillColor="#00000000"
+		android:strokeColor="@*android:color/accent_device_default"
+		android:strokeWidth="0.528"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M12.00,7.50C14.49,7.50,16.50,9.51,16.50,12.00C16.50,14.49,14.49,16.50,12.00,16.50C9.51,16.50,7.50,14.49,7.50,12.00C7.50,9.51,9.51,7.50,12.00,7.50z"/>
+	<path
+		android:fillColor="@*android:color/accent_device_default"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M8.50,12.00C8.50,11.76,8.31,11.66,8.03,11.52L6.53,10.86C5.78,10.50,4.75,10.68,4.75,11.28L4.75,12.00L4.75,12.72C4.75,13.32,5.78,13.50,6.53,13.14L8.03,12.48C8.31,12.34,8.50,12.24,8.50,12.00z"/>
+	<path
+		android:fillColor="@*android:color/accent_device_default"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M12.10,10.33L12.10,10.33A0.10 0.10 0 0 1 12.20,10.43L12.20,11.90A0.10 0.10 0 0 1 12.10,12.00L12.10,12.00A0.10 0.10 0 0 1 12.00,11.90L12.00,10.43A0.10 0.10 0 0 1 12.10,10.33z"/>
+	<path
+		android:fillColor="@*android:color/accent_device_default"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M12.60,10.33L12.60,10.33A0.10 0.10 0 0 1 12.70,10.43L12.70,11.90A0.10 0.10 0 0 1 12.60,12.00L12.60,12.00A0.10 0.10 0 0 1 12.50,11.90L12.50,10.43A0.10 0.10 0 0 1 12.60,10.33z"/>
+	<path
+		android:fillColor="@*android:color/accent_device_default"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M13.10,10.33L13.10,10.33A0.10 0.10 0 0 1 13.20,10.43L13.20,11.90A0.10 0.10 0 0 1 13.10,12.00L13.10,12.00A0.10 0.10 0 0 1 13.00,11.90L13.00,10.43A0.10 0.10 0 0 1 13.10,10.33z"/>
+</vector>
