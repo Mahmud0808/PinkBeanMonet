@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pink_Bean.iml" filepath="$PROJECT_DIR$/.idea/modules/Pink_Bean.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pink_Bean.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pink_Bean.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pink_Bean_Monet.iml" filepath="$PROJECT_DIR$/.idea/modules/Pink_Bean_Monet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pink_Bean_Monet.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pink_Bean_Monet.app.iml" />
     </modules>
   </component>
 </project>

@@ -7401,11 +7401,11 @@ kotlin.text.StringsKt__StringsJVMKt:
     public void <init>()
 androidx.transition.Transition$TransitionListener:
     public abstract void onTransitionCancel(androidx.transition.Transition)
+com.google.android.material.internal.ForegroundLinearLayout:
+    public void <init>(android.content.Context)
 com.google.android.material.chip.ChipGroup$CheckedStateTracker:
     private void <init>(com.google.android.material.chip.ChipGroup)
     synthetic void <init>(com.google.android.material.chip.ChipGroup,com.google.android.material.chip.ChipGroup$1)
-com.google.android.material.internal.ForegroundLinearLayout:
-    public void <init>(android.content.Context)
 androidx.appcompat.widget.Toolbar:
     public void <init>(android.content.Context)
     private static boolean isCustomView(android.view.View)

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\StudioProjects\\Pink Bean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
+            "outputFile": "D:\\StudioProjects\\Pink Bean Monet\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
             "map": [
                 {
                     "source": "D:\\StudioProjects\\.gradle\\caches\\transforms-2\\files-2.1\\f4ceafa7ef841920b93751825c24895a\\appcompat-1.0.2\\res\\values-pt-rPT\\values-pt-rPT.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\StudioProjects\\Pink Bean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "D:\\StudioProjects\\Pink Bean Monet\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
                     "source": "D:\\StudioProjects\\.gradle\\caches\\transforms-2\\files-2.1\\62e0b1243deb7979a21bbfb74ab09851\\material-1.0.0\\res\\values-land\\values-land.xml",

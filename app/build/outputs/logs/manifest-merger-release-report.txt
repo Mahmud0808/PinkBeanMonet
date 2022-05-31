@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:2:1-74:12
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:2:1-74:12
 MERGED from [com.github.javiersantos:PiracyChecker:1.2.5] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\7037a46ae76cf8945b704708ca3553b2\PiracyChecker-1.2.5\AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.android.material:material:1.0.0] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\62e0b1243deb7979a21bbfb74ab09851\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\f4ceafa7ef841920b93751825c24895a\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
@@ -36,161 +36,161 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\StudioProjects\.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\36024727244d5940171ef4173f1057ee\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\965b56a0a2b53fa1055df5bcc0121dae\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.billingclient:billing:2.0.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\099479360718de040bddaf08ef8cf0fc\billing-2.0.1\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:2:1-74:12
-INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:2:1-74:12
 	package
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:4:11-44
-		INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml
-		INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:4:11-44
+		INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:2:1-74:12
-		INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml
+		INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:3:11-57
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:3:11-57
 	android:versionCode
-		INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:2:1-74:12
-		INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml
+		INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:5:11-49
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:5:11-49
 uses-permission#com.android.vending.CHECK_LICENSE
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:7:5-72
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:7:5-72
 MERGED from [com.github.javiersantos:PiracyChecker:1.2.5] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\7037a46ae76cf8945b704708ca3553b2\PiracyChecker-1.2.5\AndroidManifest.xml:11:5-73
 MERGED from [com.github.javiersantos:PiracyChecker:1.2.5] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\7037a46ae76cf8945b704708ca3553b2\PiracyChecker-1.2.5\AndroidManifest.xml:11:5-73
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:7:22-70
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:7:22-70
 uses-permission#android.permission.INTERNET
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:8:5-67
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:8:5-67
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:8:22-64
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:8:22-64
 uses-permission#com.android.vending.BILLING
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:9:5-67
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:9:5-67
 MERGED from [com.android.billingclient:billing:2.0.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\099479360718de040bddaf08ef8cf0fc\billing-2.0.1\AndroidManifest.xml:10:5-67
 MERGED from [com.android.billingclient:billing:2.0.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\099479360718de040bddaf08ef8cf0fc\billing-2.0.1\AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:9:22-64
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:9:22-64
 uses-feature#projekt.substratum.theme
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:11:2-13:36
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:11:2-13:36
 	android:required
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:13:9-33
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:13:9-33
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:12:9-48
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:12:9-48
 application
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:15:5-72:19
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:15:5-72:19
 REJECTED from [com.github.javiersantos:PiracyChecker:1.2.5] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\7037a46ae76cf8945b704708ca3553b2\PiracyChecker-1.2.5\AndroidManifest.xml:13:5-17:19
 REJECTED from [com.google.android.material:material:1.0.0] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\62e0b1243deb7979a21bbfb74ab09851\material-1.0.0\AndroidManifest.xml:22:5-20
 REJECTED from [androidx.core:core:1.0.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\e7279ce5c01b52e2158776ac1a0ac9ae\core-1.0.1\AndroidManifest.xml:22:5-89
 REJECTED from [androidx.versionedparcelable:versionedparcelable:1.0.0] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\e2eb95c8d2d3d5c98830206753e23909\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
 REJECTED from [com.android.billingclient:billing:2.0.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\099479360718de040bddaf08ef8cf0fc\billing-2.0.1\AndroidManifest.xml:12:5-21:19
 	tools:node
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:21:9-29
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:21:9-29
 	android:extractNativeLibs
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:23:9-42
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:23:9-42
 	android:supportsRtl
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:19:9-35
 	android:label
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:18:9-42
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:18:9-42
 	tools:ignore
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:22:9-48
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:22:9-48
 	android:icon
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:17:9-43
 	android:allowBackup
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:16:9-36
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:16:9-36
 	android:theme
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:20:9-43
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:20:9-43
 activity#com.drdisagree.pinkbean.SubstratumLauncher
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:25:9-41:20
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:25:9-41:20
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:25:19-76
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:25:19-76
 intent-filter#action:name:projekt.substratum.THEME+category:name:android.intent.category.DEFAULT
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:26:13-29:29
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:26:13-29:29
 action#projekt.substratum.THEME
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:27:17-66
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:27:17-66
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:27:25-64
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:27:25-64
 category#android.intent.category.DEFAULT
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:28:17-75
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:28:17-75
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:28:27-73
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:28:27-73
 intent-filter#action:name:projekt.substratum.lite.THEME+category:name:android.intent.category.DEFAULT
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:30:13-33:29
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:30:13-33:29
 action#projekt.substratum.lite.THEME
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:31:17-71
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:31:17-71
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:31:25-69
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:31:25-69
 intent-filter#action:name:projekt.substratum.GET_KEYS+category:name:android.intent.category.DEFAULT
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:34:13-37:29
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:34:13-37:29
 action#projekt.substratum.GET_KEYS
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:35:17-70
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:35:17-70
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:35:25-67
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:35:25-67
 intent-filter#action:name:android.intent.action.MAIN
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:38:13-40:29
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:38:13-40:29
 action#android.intent.action.MAIN
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:39:17-68
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:39:17-68
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:39:25-66
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:39:25-66
 meta-data#Substratum_Legacy
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:42:9-44:55
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:42:9-44:55
 	android:value
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:44:13-53
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:44:13-53
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:43:13-45
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:43:13-45
 meta-data#Substratum_Name
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:45:9-47:48
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:45:9-47:48
 	android:value
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:47:13-46
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:47:13-46
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:46:13-43
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:46:13-43
 meta-data#Substratum_Author
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:48:9-50:50
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:48:9-50:50
 	android:value
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:50:13-48
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:50:13-48
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:49:13-45
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:49:13-45
 meta-data#Substratum_Email
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:51:9-53:55
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:51:9-53:55
 	android:value
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:53:13-53
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:53:13-53
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:52:13-44
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:52:13-44
 meta-data#Substratum_Samsung
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:54:9-56:56
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:54:9-56:56
 	android:value
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:56:13-54
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:56:13-54
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:55:13-46
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:55:13-46
 meta-data#Substratum_Wallpapers
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:57:9-59:59
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:57:9-59:59
 	android:value
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:59:13-57
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:59:13-57
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:58:13-49
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:58:13-49
 meta-data#Substratum_HeroOverride
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:60:9-62:56
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:60:9-62:56
 	android:value
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:62:13-54
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:62:13-54
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:61:13-51
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:61:13-51
 meta-data#Substratum_Plugin
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:65:9-67:37
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:65:9-67:37
 	android:value
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:67:13-35
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:67:13-35
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:66:13-45
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:66:13-45
 meta-data#Substratum_Encryption
-ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:68:9-70:56
+ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:68:9-70:56
 	android:value
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:70:13-54
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:70:13-54
 	android:name
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml:69:13-49
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml:69:13-49
 uses-sdk
-INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml
+INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml
 MERGED from [com.github.javiersantos:PiracyChecker:1.2.5] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\7037a46ae76cf8945b704708ca3553b2\PiracyChecker-1.2.5\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.javiersantos:PiracyChecker:1.2.5] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\7037a46ae76cf8945b704708ca3553b2\PiracyChecker-1.2.5\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.0.0] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\62e0b1243deb7979a21bbfb74ab09851\material-1.0.0\AndroidManifest.xml:20:5-44
@@ -255,10 +255,10 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\StudioProjects\.gradle\ca
 MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\965b56a0a2b53fa1055df5bcc0121dae\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.billingclient:billing:2.0.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\099479360718de040bddaf08ef8cf0fc\billing-2.0.1\AndroidManifest.xml:6:5-8:41
 MERGED from [com.android.billingclient:billing:2.0.1] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\099479360718de040bddaf08ef8cf0fc\billing-2.0.1\AndroidManifest.xml:6:5-8:41
-INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml
+INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
 		ADDED from [com.github.javiersantos:PiracyChecker:1.2.5] D:\StudioProjects\.gradle\caches\transforms-2\files-2.1\7037a46ae76cf8945b704708ca3553b2\PiracyChecker-1.2.5\AndroidManifest.xml:9:9-38
 	android:minSdkVersion
-		INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml
-		ADDED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml
-		INJECTED from D:\StudioProjects\Pink Bean\app\src\main\AndroidManifest.xml
+		INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml
+		ADDED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\StudioProjects\Pink Bean Monet\app\src\main\AndroidManifest.xml

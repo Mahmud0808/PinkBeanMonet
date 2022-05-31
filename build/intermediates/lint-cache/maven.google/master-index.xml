@@ -124,11 +124,13 @@
   <com.android.dynamic-feature/>
   <com.android.fused-library/>
   <com.android.installreferrer/>
+  <com.android.internal.settings/>
   <com.android.java.tools.build/>
   <com.android.library/>
   <com.android.lint/>
   <com.android.ndk.thirdparty/>
   <com.android.reporting/>
+  <com.android.settings/>
   <com.android.support/>
   <com.android.support.constraint/>
   <com.android.support.test/>

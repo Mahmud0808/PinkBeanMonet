@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\StudioProjects\\Pink Bean\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-kk\\values-kk.xml",
+            "outputFile": "D:\\StudioProjects\\Pink Bean Monet\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-kk\\values-kk.xml",
             "map": [
                 {
                     "source": "D:\\StudioProjects\\.gradle\\caches\\transforms-2\\files-2.1\\e7279ce5c01b52e2158776ac1a0ac9ae\\core-1.0.1\\res\\values-kk\\values-kk.xml",
