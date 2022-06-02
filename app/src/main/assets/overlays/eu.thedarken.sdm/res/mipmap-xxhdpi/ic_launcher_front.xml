@@ -4,7 +4,7 @@
 		android:viewportWidth="108.0"
 		android:viewportHeight="108.0">
 	<path
-		android:fillColor="#FF81C784"
+		android:fillColor="@*android:color/accent_device_default"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
@@ -17,7 +17,7 @@
 		android:pathData="M73.32,55.68L34.87,55.68A19.23 19.23 -0.00 1 1 73.32,55.68zM46.00,45.06C44.61,45.06,43.47,46.19,43.47,47.59C43.47,48.98,44.61,50.12,46.00,50.12C47.40,50.12,48.53,48.98,48.53,47.59C48.53,46.19,47.40,45.06,46.00,45.06zM62.19,45.06C60.80,45.06,59.66,46.19,59.66,47.59C59.66,48.98,60.80,50.12,62.19,50.12C63.59,50.12,64.72,48.98,64.72,47.59C64.72,46.19,63.59,45.06,62.19,45.06zM51.06,39.49L40.08,44.56L36.86,39.96Q36.32,39.14,37.83,38.91L42.86,37.87L46.00,33.76Q46.68,33.08,47.22,33.82L51.06,39.49zM40.32,33.60L40.32,33.60A0.93 0.93 0 0 1 41.61,33.87L45.21,39.37A0.93 0.93 0 0 1 44.94,40.66L44.94,40.66A0.93 0.93 0 0 1 43.65,40.39L40.05,34.89A0.93 0.93 0 0 1 40.32,33.60zM67.88,33.60L67.88,33.60A0.93 0.93 0 0 1 68.14,34.89L64.55,40.39A0.93 0.93 0 0 1 63.26,40.66L63.26,40.66A0.93 0.93 0 0 1 62.99,39.37L66.59,33.87A0.93 0.93 0 0 1 67.88,33.60z"/>
 	<path
 		android:fillColor="#BF000000"
-		android:strokeColor="#FF000000"
+		android:strokeColor="@*android:color/accent_device_default"
 		android:strokeWidth="0.09714516"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"

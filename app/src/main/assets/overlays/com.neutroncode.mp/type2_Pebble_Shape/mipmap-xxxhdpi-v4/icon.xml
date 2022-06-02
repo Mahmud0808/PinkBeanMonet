@@ -4,7 +4,7 @@
 		android:viewportWidth="48.0"
 		android:viewportHeight="48.0">
 	<path
-		android:fillColor="#FFABC0DF"
+		android:fillColor="@*android:color/accent_device_default"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
@@ -17,7 +17,7 @@
 		android:pathData="M11.87,24.00L11.87,18.25C11.90,15.58,14.00,14.34,16.45,13.97C19.06,13.62,20.42,13.56,24.04,13.48C27.58,13.56,28.94,13.62,31.55,13.97C34.00,14.34,36.10,15.58,36.13,18.25L36.13,24.00L36.13,29.75C36.10,32.42,34.00,33.66,31.55,34.03C28.94,34.38,27.58,34.44,24.04,34.52C20.42,34.44,19.06,34.38,16.45,34.03C14.00,33.66,11.90,32.42,11.87,29.75L11.87,24.00zM27.51,24.00C27.51,23.36,27.19,23.11,26.71,22.72L24.16,20.97C22.88,20.01,21.13,20.49,21.13,22.08L21.13,24.00L21.13,25.92C21.13,27.51,22.88,27.99,24.16,27.03L26.71,25.28C27.19,24.89,27.51,24.64,27.51,24.00z"/>
 	<path
 		android:fillColor="#00000000"
-		android:strokeColor="#FFABC0DF"
+		android:strokeColor="@*android:color/accent_device_default"
 		android:strokeWidth="1.056"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"

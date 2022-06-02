@@ -4,7 +4,7 @@
 		android:viewportWidth="108.0"
 		android:viewportHeight="108.0">
 	<path
-		android:fillColor="#FFEFA978"
+		android:fillColor="@*android:color/accent_device_default"
 		android:strokeLineJoin="round"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"

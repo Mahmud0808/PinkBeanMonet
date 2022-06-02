@@ -4,7 +4,7 @@
 		android:viewportWidth="108.0"
 		android:viewportHeight="108.0">
 	<path
-		android:fillColor="#FF7986AB"
+		android:fillColor="@*android:color/accent_device_default"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
@@ -28,7 +28,7 @@
 		android:strokeLineCap="square"
 		android:pathData="M34.88,73.13L73.12,73.13L73.13,48.82C67.55,47.63,59.58,48.42,54.80,55.59C50.02,62.77,42.84,63.56,34.87,58.78L34.88,73.13z"/>
 	<path
-		android:fillColor="#FF7986AB"
+		android:fillColor="@*android:color/accent_device_default"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
