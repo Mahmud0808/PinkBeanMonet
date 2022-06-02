@@ -1,42 +1,42 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-				android:width="24.0dp"
-		android:height="24.0dp"
-		android:viewportWidth="24.0"
-		android:viewportHeight="24.0">
+				android:width="108.0dp"
+		android:height="108.0dp"
+		android:viewportWidth="108.0"
+		android:viewportHeight="108.0">
 	<path
-		android:fillColor="@*android:color/accent_device_default"
+		android:fillColor="#FF9FA8DA"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
-		android:pathData="M0.00,-0.00L24.00,-0.00L24.00,24.00L0.00,24.00z"/>
-	<path
-		android:fillColor="#BF000000"
-		android:strokeLineJoin="miter"
-		android:fillType="nonZero"
-		android:strokeLineCap="square"
-		android:pathData="M12.02,11.66C12.43,11.66,12.77,12.00,12.77,12.43C12.77,12.86,12.43,13.21,12.02,13.21C11.60,13.21,11.26,12.86,11.26,12.43C11.26,12.00,11.60,11.66,12.02,11.66z"/>
+		android:pathData="M0.00,-0.00L108.00,-0.00L108.00,108.00L0.00,108.00z"/>
 	<path
 		android:fillColor="#BF000000"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
-		android:pathData="M11.03,13.57A1.54 1.57 -0.00 1 1 12.99,13.59A1.79 1.84 -0.00 1 0 11.03,13.57z"/>
+		android:pathData="M54.08,52.45C55.95,52.45,57.47,54.02,57.47,55.95C57.47,57.89,55.95,59.45,54.08,59.45C52.21,59.45,50.69,57.89,50.69,55.95C50.69,54.02,52.21,52.45,54.08,52.45z"/>
 	<path
 		android:fillColor="#BF000000"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
-		android:pathData="M9.65,12.77A2.76 2.79 -0.00 1 0 13.19,10.15A2.49 2.46 -0.00 1 1 9.65,12.77z"/>
+		android:pathData="M49.61,61.06A6.93 7.05 -0.00 1 1 58.46,61.14A8.08 8.27 -0.00 1 0 49.61,61.06z"/>
 	<path
 		android:fillColor="#BF000000"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
-		android:pathData="M9.41,13.80C8.07,12.14,9.16,10.19,10.92,10.08C9.55,10.71,8.99,12.14,9.41,13.80z"/>
+		android:pathData="M43.44,57.45A12.40 12.55 -0.00 1 0 59.38,45.67A11.23 11.06 -0.00 1 1 43.44,57.45z"/>
 	<path
 		android:fillColor="#BF000000"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
-		android:pathData="M8.85,14.94A3.70 3.72 -0.00 1 1 12.90,16.25A4.25 4.30 -0.00 1 0 8.85,14.94z"/>
+		android:pathData="M42.33,62.10C36.33,54.63,41.22,45.84,49.12,45.35C42.99,48.19,40.43,54.61,42.33,62.10z"/>
+	<path
+		android:fillColor="#BF000000"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M39.84,67.23A16.66 16.75 -0.00 1 1 58.05,73.13A19.12 19.34 -0.00 1 0 39.84,67.23z"/>
 </vector>

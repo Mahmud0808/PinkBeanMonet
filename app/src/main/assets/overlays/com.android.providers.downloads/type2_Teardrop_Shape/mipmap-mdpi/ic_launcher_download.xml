@@ -1,24 +1,24 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-				android:width="24.0dp"
-		android:height="24.0dp"
-		android:viewportWidth="24.0"
-		android:viewportHeight="24.0">
+				android:width="48.0dp"
+		android:height="48.0dp"
+		android:viewportWidth="48.0"
+		android:viewportHeight="48.0">
 	<path
-		android:fillColor="@*android:color/accent_device_default"
+		android:fillColor="#FFE3BFA5"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
-		android:pathData="M24.00,20.50L24.00,12.00A12.00 12.00 -0.00 1 0 12.00,24.00L20.50,24.00C22.75,24.00,24.00,22.75,24.00,20.50z"/>
-	<path
-		android:fillColor="#BF000000"
-		android:strokeLineJoin="miter"
-		android:fillType="nonZero"
-		android:strokeLineCap="square"
-		android:pathData="M8.04,12.37L10.95,14.78C11.48,15.27,12.54,15.27,13.06,14.78L15.97,12.37C16.50,12.00,16.50,11.00,15.00,11.00L9.00,11.00C7.50,11.00,7.50,12.00,8.04,12.37zM10.70,6.72L10.70,11.17A0.74 0.74 0 0 0 11.44,11.91L12.55,11.91A0.74 0.74 0 0 0 13.29,11.17L13.29,6.72A0.74 0.74 0 0 0 12.55,5.98L11.44,5.98A0.74 0.74 0 0 0 10.70,6.72z"/>
+		android:pathData="M48.00,41.00L48.00,24.00A24.00 24.00 -0.00 1 0 24.00,48.00L41.00,48.00C45.50,48.00,48.00,45.50,48.00,41.00z"/>
 	<path
 		android:fillColor="#BF000000"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
-		android:pathData="M8.45,16.11L15.55,16.11A0.95 0.95 0 0 1 16.50,17.06L16.50,17.06A0.95 0.95 0 0 1 15.55,18.02L8.45,18.02A0.95 0.95 0 0 1 7.50,17.06L7.50,17.06A0.95 0.95 0 0 1 8.45,16.11z"/>
+		android:pathData="M16.08,24.74L21.90,29.56C22.96,30.55,25.07,30.55,26.13,29.56L31.95,24.74C33.00,24.00,33.00,22.00,30.00,22.00L18.00,22.00C15.00,22.00,15.00,24.00,16.08,24.74zM21.41,13.45L21.41,22.34A1.48 1.48 0 0 0 22.89,23.81L25.10,23.81A1.48 1.48 0 0 0 26.58,22.34L26.58,13.45A1.48 1.48 0 0 0 25.10,11.97L22.89,11.97A1.48 1.48 0 0 0 21.41,13.45z"/>
+	<path
+		android:fillColor="#BF000000"
+		android:strokeLineJoin="miter"
+		android:fillType="nonZero"
+		android:strokeLineCap="square"
+		android:pathData="M16.91,32.21L31.09,32.21A1.91 1.91 0 0 1 33.00,34.12L33.00,34.12A1.91 1.91 0 0 1 31.09,36.03L16.91,36.03A1.91 1.91 0 0 1 15.00,34.12L15.00,34.12A1.91 1.91 0 0 1 16.91,32.21z"/>
 </vector>
