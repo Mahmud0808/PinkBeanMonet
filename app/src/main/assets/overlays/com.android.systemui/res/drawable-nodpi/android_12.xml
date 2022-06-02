@@ -10,7 +10,7 @@
 		android:strokeLineCap="square"
 		android:pathData="M0.00,0.00L108.00,0.00L108.00,108.00L0.00,108.00z"/>
 	<path
-		android:fillColor="@*android:color/accent_device_default"
+		android:fillColor="#BF000000"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
