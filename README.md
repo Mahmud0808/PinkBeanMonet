@@ -17,8 +17,6 @@ Link - https://t.me/AnotherThemeBot
 @Android Open Source Project (AOSP)<br/>
 @Substratum Team (Projekt Development Team)<br/>
 @DJDarkknight96<br/>
-@Jaguar0066<br/>
-@Ritesh_Kanwar<br/>
 
 ## Download
 
